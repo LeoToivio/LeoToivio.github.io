@@ -1,0 +1,56 @@
+.sticky {
+  margin: 30px 0;
+  position: relative;
+  overflow: hidden;
+  -webkit-box-shadow: 0 0 10px rgba(50, 50, 50, 0.5);
+  -moz-box-shadow: 0 0 10px rgba(50, 50, 50, 0.5);
+  box-shadow: 0 0 10px rgba(50, 50, 50, 0.5); }
+
+.sticky h2 {
+  /*Name of project*/
+  font-size: 30px;
+  display: inline; }
+
+.sticky h2 span {
+  float: right;
+  color: black; }
+
+.sticky .background {
+  height: 350px; }
+
+.sticky .title_box {
+  padding: 5px;
+  background-color: rgba(255, 255, 255, 0.7); }
+
+.stretch {
+  width: 100%;
+  display: inline-block;
+  font-size: 0;
+  line-height: 0; }
+
+.sticky .icons {
+  width: 100%;
+  display: inline-block;
+  text-align: center; }
+
+.sticky .icons .icon {
+  height: 50px;
+  margin: 10px !important; }
+
+.sticky .myButton {
+  -webkit-box-shadow: 0 0 10px rgba(50, 50, 50, 0.5);
+  -moz-box-shadow: 0 0 10px rgba(50, 50, 50, 0.5);
+  box-shadow: 0 0 10px rgba(50, 50, 50, 0.5);
+  float: right;
+  background-color: #ffffff;
+  border: 1px solid #dcdcdc;
+  cursor: pointer;
+  margin: 10px;
+  padding: 6px 24px; }
+
+.sticky .myButton:hover {
+  background-color: #f6f6f6; }
+
+.sticky .myButton:active {
+  position: relative;
+  top: 1px; }

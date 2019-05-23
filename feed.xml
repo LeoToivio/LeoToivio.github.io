@@ -1,0 +1,2605 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://leo.toivio.se/feed.xml" rel="self" type="application/atom+xml" /><link href="http://leo.toivio.se/" rel="alternate" type="text/html" /><updated>2019-05-23T22:05:16+02:00</updated><id>http://leo.toivio.se/feed.xml</id><title type="html">Leo Toivio - Programmer and Game Designer</title><subtitle>Leo Toivio's game development portfolio</subtitle><author><name>Leo Toivio</name></author><entry><title type="html">WordWhizzle Tap</title><link href="http://leo.toivio.se/game/wordwhizzle-tap.html" rel="alternate" type="text/html" title="WordWhizzle Tap" /><published>2018-07-16T00:00:00+02:00</published><updated>2018-07-16T00:00:00+02:00</updated><id>http://leo.toivio.se/game/wordwhizzle-tap</id><content type="html" xml:base="http://leo.toivio.se/game/wordwhizzle-tap.html">&lt;p&gt;WordWhizzle Tap is a clicker/idle game with a word twist. It started out an in-house game jam project for me and my colleague to learn Lua and the game engine Corona. Then it was supposed to be a minigame inside another of Apprope’s word games, but it was quickly made into its own standalone game when we noticed its potential.&lt;/p&gt;
+
+&lt;p&gt;We worked with an agile development model, never forgetting the minimum viable product, making sure to focus on the correct tasks for the next milestone and retargeting our focus when needed.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lKsNm65voas?modestbranding=1&amp;amp;rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;div class=&quot;image-group&quot; style=&quot;overflow-y: scroll; max-height: 500px; width: 100%; background-color: lightgray;&quot;&gt;
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		
+			
+		
+	
+
+	
+		
+			
+		
+	
+
+	
+		
+			
+		
+	
+
+	
+		
+			
+		
+	
+
+	
+		
+			
+		
+	
+
+	
+		
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/wordwhizzle-tap/screenshots/unnamed_1.jpg&quot; alt=&quot;/assets/game/wordwhizzle-tap/screenshots/unnamed_1.jpg&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/wordwhizzle-tap/screenshots/unnamed_2.jpg&quot; alt=&quot;/assets/game/wordwhizzle-tap/screenshots/unnamed_2.jpg&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/wordwhizzle-tap/screenshots/unnamed_3.jpg&quot; alt=&quot;/assets/game/wordwhizzle-tap/screenshots/unnamed_3.jpg&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/wordwhizzle-tap/screenshots/unnamed_4.jpg&quot; alt=&quot;/assets/game/wordwhizzle-tap/screenshots/unnamed_4.jpg&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/wordwhizzle-tap/screenshots/unnamed_5.jpg&quot; alt=&quot;/assets/game/wordwhizzle-tap/screenshots/unnamed_5.jpg&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+&lt;/div&gt;
+
+&lt;h2 id=&quot;key-features-ive-designed-and-implemented&quot;&gt;Key features I’ve designed and implemented&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Score system, balancing idle and active earnings with each other&lt;/li&gt;
+  &lt;li&gt;One click download from Google Sheets right into the game using a Unix script&lt;/li&gt;
+  &lt;li&gt;Progression system that unlocks features as the player progresses in the game, it was also used for the tutorial&lt;/li&gt;
+  &lt;li&gt;Quest system that gives the player three quests to complete at the time&lt;/li&gt;
+  &lt;li&gt;Modular save system&lt;/li&gt;
+  &lt;li&gt;A custom particle system&lt;/li&gt;
+  &lt;li&gt;UI system&lt;/li&gt;
+  &lt;li&gt;Prestige system&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-i-learned&quot;&gt;What I learned&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Unix terminal and creating scripts&lt;/li&gt;
+  &lt;li&gt;Lua scripting language&lt;/li&gt;
+  &lt;li&gt;Corona SDK - Game Engine&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;where-i-improved&quot;&gt;Where I improved&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Balancing and working with exponential growth&lt;/li&gt;
+  &lt;li&gt;Modularity&lt;/li&gt;
+  &lt;li&gt;Code architecture&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/wordwhizzle-tap/id1393939263&quot;&gt;Appstore&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.apprope.wordwhizzletap&quot;&gt;Google Play&lt;/a&gt;&lt;/p&gt;</content><author><name>Leo Toivio</name></author><category term="Apprope" /><category term="AppStore" /><category term="GooglePlay" /><summary type="html">WordWhizzle Tap is a clicker/idle game with a word twist. It started out an in-house game jam project for me and my colleague to learn Lua and the game engine Corona. Then it was supposed to be a minigame inside another of Apprope’s word games, but it was quickly made into its own standalone game when we noticed its potential.</summary></entry><entry><title type="html">Bubble Breeze Pop</title><link href="http://leo.toivio.se/game/bubble-breeze-pop.html" rel="alternate" type="text/html" title="Bubble Breeze Pop" /><published>2018-03-15T00:00:00+01:00</published><updated>2018-03-15T00:00:00+01:00</updated><id>http://leo.toivio.se/game/bubble-breeze-pop</id><content type="html" xml:base="http://leo.toivio.se/game/bubble-breeze-pop.html">&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_PmW_8Bpg80?modestbranding=1&amp;amp;rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;!--__--&gt;&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot; style=&quot;overflow-y: scroll; max-height: 500px; width: 100%; background-color: lightgray;&quot;&gt;
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/bubble-breeze-pop/screenshots/0.png&quot; alt=&quot;/assets/game/bubble-breeze-pop/screenshots/0.png&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/bubble-breeze-pop/screenshots/1.png&quot; alt=&quot;/assets/game/bubble-breeze-pop/screenshots/1.png&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/bubble-breeze-pop/screenshots/2.png&quot; alt=&quot;/assets/game/bubble-breeze-pop/screenshots/2.png&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/bubble-breeze-pop/screenshots/3.png&quot; alt=&quot;/assets/game/bubble-breeze-pop/screenshots/3.png&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/bubble-breeze-pop/screenshots/4.png&quot; alt=&quot;/assets/game/bubble-breeze-pop/screenshots/4.png&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/bubble-breeze-pop/screenshots/unnamed (1).png&quot; alt=&quot;/assets/game/bubble-breeze-pop/screenshots/unnamed (1).png&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/bubble-breeze-pop/screenshots/unnamed (2).png&quot; alt=&quot;/assets/game/bubble-breeze-pop/screenshots/unnamed (2).png&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/bubble-breeze-pop/screenshots/unnamed (3).png&quot; alt=&quot;/assets/game/bubble-breeze-pop/screenshots/unnamed (3).png&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/bubble-breeze-pop/screenshots/unnamed (4).png&quot; alt=&quot;/assets/game/bubble-breeze-pop/screenshots/unnamed (4).png&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/bubble-breeze-pop/screenshots/unnamed.png&quot; alt=&quot;/assets/game/bubble-breeze-pop/screenshots/unnamed.png&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+&lt;/div&gt;
+
+&lt;h2 id=&quot;key-features-ive-designed-and-implemented&quot;&gt;Key features I’ve designed and implemented&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Hexagonal grid system&lt;/li&gt;
+  &lt;li&gt;Modular object pooling system&lt;/li&gt;
+  &lt;li&gt;Modular grid object and bubble inheritance architecture and logic&lt;/li&gt;
+  &lt;li&gt;Modular game modes&lt;/li&gt;
+  &lt;li&gt;Health system that recovers when the app is not running&lt;/li&gt;
+  &lt;li&gt;Modular localisation system&lt;/li&gt;
+  &lt;li&gt;Generating levels to and from JSON-files&lt;/li&gt;
+  &lt;li&gt;UI system&lt;/li&gt;
+  &lt;li&gt;Cycle manager; a script that makes the gameplay run in the correct in order&lt;/li&gt;
+  &lt;li&gt;Google Sheets integration for localisation, levels, in app purchases and more&lt;/li&gt;
+  &lt;li&gt;In app purchases&lt;/li&gt;
+  &lt;li&gt;Modular tutorial system&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-i-learned&quot;&gt;What I learned&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;While all code should be optimised I’ve learned that optimising for readability first and performance second helps improve the code faster and prevents me from getting stuck on optimising something that doesn’t need to be optimised&lt;/li&gt;
+  &lt;li&gt;Have code reviews often; they’re awesome&lt;/li&gt;
+  &lt;li&gt;Making animations&lt;/li&gt;
+  &lt;li&gt;Unity’s particle system&lt;/li&gt;
+  &lt;li&gt;All the steps for preparing and exporting a build from Unity to Google Play Store&lt;/li&gt;
+  &lt;li&gt;To prioritise fixing bugs, saving time in the long run&lt;/li&gt;
+  &lt;li&gt;Extending the Unity editor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;where-i-improved&quot;&gt;Where I improved&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Game feel and making things juicy&lt;/li&gt;
+  &lt;li&gt;How and when to separate long scripts into smaller classes&lt;/li&gt;
+  &lt;li&gt;Making the game modular, code should never be copied&lt;/li&gt;
+  &lt;li&gt;Git and GitHub on a deeper level. For example:
+    &lt;ul&gt;
+      &lt;li&gt;Rebasing&lt;/li&gt;
+      &lt;li&gt;Fixing more advanced conflicts&lt;/li&gt;
+      &lt;li&gt;Releases&lt;/li&gt;
+      &lt;li&gt;Stashing&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/bubble-breeze-pop/id1281877791&quot;&gt;Appstore&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.apprope.bubblepop&quot;&gt;Google Play&lt;/a&gt;&lt;/p&gt;</content><author><name>Leo Toivio</name></author><category term="Apprope" /><category term="AppStore" /><category term="GooglePlay" /><summary type="html"></summary></entry><entry><title type="html">Shadow Rumble</title><link href="http://leo.toivio.se/game/shadow-rumble.html" rel="alternate" type="text/html" title="Shadow Rumble" /><published>2018-01-28T00:00:00+01:00</published><updated>2018-01-28T00:00:00+01:00</updated><id>http://leo.toivio.se/game/shadow-rumble</id><content type="html" xml:base="http://leo.toivio.se/game/shadow-rumble.html">&lt;p&gt;Made at Global Game Jam 2018&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://globalgamejam.org/2018/games/shadow-rumble&quot;&gt;https://globalgamejam.org/2018/games/shadow-rumble&lt;/a&gt;&lt;/p&gt;</content><author><name>Leo Toivio</name></author><summary type="html">Made at Global Game Jam 2018</summary></entry><entry><title type="html">Choose your friendship</title><link href="http://leo.toivio.se/game/choose-your-friendship.html" rel="alternate" type="text/html" title="Choose your friendship" /><published>2017-11-12T00:00:00+01:00</published><updated>2017-11-12T00:00:00+01:00</updated><id>http://leo.toivio.se/game/choose-your-friendship</id><content type="html" xml:base="http://leo.toivio.se/game/choose-your-friendship.html">&lt;p&gt;Made at Forsbergs Game Jam 9&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/YuLJWPFNQzI?modestbranding=1&amp;amp;rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;div class=&quot;image-group&quot; style=&quot;overflow-y: scroll; max-height: 500px; width: 100%; background-color: lightgray;&quot;&gt;
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		
+&lt;img src=&quot;/assets/game/choose-your-friendship/screenshot_0.png&quot; alt=&quot;/assets/game/choose-your-friendship/screenshot_0.png&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+		
+	
+
+	
+		
+&lt;img src=&quot;/assets/game/choose-your-friendship/screenshot_1.png&quot; alt=&quot;/assets/game/choose-your-friendship/screenshot_1.png&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+		
+	
+
+	
+		
+&lt;img src=&quot;/assets/game/choose-your-friendship/screenshot_2.png&quot; alt=&quot;/assets/game/choose-your-friendship/screenshot_2.png&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+		
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+&lt;/div&gt;</content><author><name>Leo Toivio</name></author><summary type="html">Made at Forsbergs Game Jam 9</summary></entry><entry><title type="html">4 Wheel Drive</title><link href="http://leo.toivio.se/game/4-wheel-drive.html" rel="alternate" type="text/html" title="4 Wheel Drive" /><published>2017-10-21T00:00:00+02:00</published><updated>2017-10-21T00:00:00+02:00</updated><id>http://leo.toivio.se/game/4-wheel-drive</id><content type="html" xml:base="http://leo.toivio.se/game/4-wheel-drive.html">&lt;p&gt;Made at Splash Game Jam 2017&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itch.io/jam/splash-2017/rate/188599&quot;&gt;https://itch.io/jam/splash-2017/rate/188599&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;image-group&quot; style=&quot;overflow-y: scroll; max-height: 500px; width: 100%; background-color: lightgray;&quot;&gt;
+
+
+	
+
+	
+		
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/4-wheel-drive/screenshots/image_1.png&quot; alt=&quot;/assets/game/4-wheel-drive/screenshots/image_1.png&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/4-wheel-drive/screenshots/image_2.png&quot; alt=&quot;/assets/game/4-wheel-drive/screenshots/image_2.png&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+&lt;/div&gt;</content><author><name>Leo Toivio</name></author><summary type="html">Made at Splash Game Jam 2017</summary></entry><entry><title type="html">Skylar &amp;amp; Plux: Adventure on Clover Island</title><link href="http://leo.toivio.se/game/skylar-and-plux.html" rel="alternate" type="text/html" title="Skylar &amp; Plux: Adventure on Clover Island" /><published>2017-05-19T00:00:00+02:00</published><updated>2017-05-19T00:00:00+02:00</updated><id>http://leo.toivio.se/game/skylar-and-plux</id><content type="html" xml:base="http://leo.toivio.se/game/skylar-and-plux.html">&lt;blockquote&gt;
+  &lt;p&gt;“Two very important aspects in making a successful 3D platformer are controls and camera angles, and these two were as perfect as they could get.” – Examiner.com 2016&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Skylar &amp;amp; Plux: Adventure on Clover Island is a single-player action-platformer game for PlayStation 4, Xbox One and PC. The game embraces a vibrant colorful world of 3D platforming, following the best traditions of the third-person platformer genre. It sets two unlikely heroes on an adventure to prevent the villainous CRT from conquering their home and turning it into a wasteland. Together they will explore lush beaches, an active volcano, a freezing mountain and a merciless desert while collecting powerful upgrades in order to fight CRT and his henchmen.&lt;/p&gt;
+
+&lt;p&gt;This a project I made at the studio Right Nice Games that we founded in November 2015.  This project initially started as a school project but after it won Swedish Game Awards in the categories Best Execution in Art and Game of the year the group decided to take the game to the next level and release it commercially. That’s when they asked me to join the team and I became lead programmer, scripter &amp;amp; designer for the project. The game was awarded the Unreal Development Grant by Epic Games in May 2016.&lt;/p&gt;
+
+&lt;h2 id=&quot;gameplay&quot;&gt;Gameplay&lt;/h2&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fxSnAWVcWYY?modestbranding=1&amp;amp;rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;key-features-ive-designed-and-implemented&quot;&gt;Key features I’ve designed and implemented&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;A 3D platformer character (more info below)&lt;/li&gt;
+  &lt;li&gt;Dynamic third person camera (more info below)&lt;/li&gt;
+  &lt;li&gt;Actors used by the level designers. For example:
+    &lt;ul&gt;
+      &lt;li&gt;Meshes that are instantiated along a spline&lt;/li&gt;
+      &lt;li&gt;Jump pads&lt;/li&gt;
+      &lt;li&gt;Conveyor belts (more info below)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Modular real time time manipulation system where the player can go back and forth between ancient and modern time (more info below)&lt;/li&gt;
+  &lt;li&gt;Slowing down the world to slow motion while the player is still real time&lt;/li&gt;
+  &lt;li&gt;Magnetic glove to pick up and throw around objects and enemies&lt;/li&gt;
+  &lt;li&gt;Enemy AI&lt;/li&gt;
+  &lt;li&gt;UI system&lt;/li&gt;
+  &lt;li&gt;Tobii Eyetracking
+    &lt;ul&gt;
+      &lt;li&gt;Clean UI&lt;/li&gt;
+      &lt;li&gt;Auto-Turn&lt;/li&gt;
+      &lt;li&gt;Magnet at Gaze&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-i-learned&quot;&gt;What I learned&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Working with external developers&lt;/li&gt;
+  &lt;li&gt;Working with a distributor&lt;/li&gt;
+  &lt;li&gt;How to set up and run a company&lt;/li&gt;
+  &lt;li&gt;Basic AI&lt;/li&gt;
+  &lt;li&gt;Marketing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;my-contribution&quot;&gt;My contribution&lt;/h2&gt;
+&lt;p&gt;The whole game was created using Unreal Engine Blueprints. Since I was the only full time programmer on the project I have written a most of the game code.&lt;/p&gt;
+
+&lt;p&gt;During the project I’ve taken a lot of responsibility, both in managing my own tasks and other’s. I’ve gone through the process of starting a company, which included many discussions, hard choices and compromises. I’ve even managed a group of students from FutureGames that wanted to work on the game in order to make portfolio pieces for themselves.&lt;/p&gt;
+
+&lt;h3 id=&quot;3d-platformer-character-gadgets-and-dynamic-camera&quot;&gt;3D-platformer character, gadgets and dynamic camera&lt;/h3&gt;
+&lt;p&gt;In this example video the camera moves automatically, the manual camera controls aren’t used.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qbLS3BRwPPc?modestbranding=1&amp;amp;rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Camera features&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Automatically follow player&lt;/li&gt;
+  &lt;li&gt;Adjust the height for when the player is moving on a slope&lt;/li&gt;
+  &lt;li&gt;Raise camera upwards if there’s something under it that breaks line of sight&lt;/li&gt;
+  &lt;li&gt;Increase camera FOV when looking upwards to let the player see more and give a bigger sense of scale&lt;/li&gt;
+  &lt;li&gt;Player always have priority if they want to control the camera manually&lt;/li&gt;
+  &lt;li&gt;Move the camera so that line of sight is never broken. Except for tagged objects for example trees, poles and enemies&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Making the camera I took inspiration from many 3D games including Zelda, Super Mario 64 and Jak and Daxer. &lt;a href=&quot;https://www.youtube.com/watch?v=C7307qRmlMI&quot;&gt;This video&lt;/a&gt; by John Nesky, programmer on Journey helped me as well. The camera system is still improving every week and is one of the things I’m most proud of in the whole game.&lt;/p&gt;
+
+&lt;p&gt;3D-character features:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Basic moves
+    &lt;ul&gt;
+      &lt;li&gt;Jump&lt;/li&gt;
+      &lt;li&gt;Double Jump&lt;/li&gt;
+      &lt;li&gt;Spin&lt;/li&gt;
+      &lt;li&gt;Spin jump&lt;/li&gt;
+      &lt;li&gt;3 Punch combo&lt;/li&gt;
+      &lt;li&gt;Ground pound&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Gadgets
+    &lt;ul&gt;
+      &lt;li&gt;Jet pack
+        &lt;ul&gt;
+          &lt;li&gt;Hover&lt;/li&gt;
+          &lt;li&gt;Roll&lt;/li&gt;
+          &lt;li&gt;Roll jump&lt;/li&gt;
+          &lt;li&gt;High jump&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Time orb
+        &lt;ul&gt;
+          &lt;li&gt;Slow down time - everything in the world is slowed down except the player character&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Magnetic glove - manipulate metallic objects and enemies by:
+        &lt;ul&gt;
+          &lt;li&gt;Picking them up&lt;/li&gt;
+          &lt;li&gt;Throwing them&lt;/li&gt;
+          &lt;li&gt;Spinning them around the player&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Hidden features
+    &lt;ul&gt;
+      &lt;li&gt;Hit stun - When hitting objects the character will go into slow motion for a super short while to give a bigger sense of impact.&lt;/li&gt;
+      &lt;li&gt;Reset jump - If the player makes her double jump close to the ground the game will count it as their first jump. This way the player is never “cheated” out of their double jump.&lt;/li&gt;
+      &lt;li&gt;Push up from ledge - Pushes the character up ledges if they are close to make the jump so that the player doesn’t feel cheated by the game.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;spline-based-conveyor-belt&quot;&gt;Spline based conveyor belt&lt;/h3&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qVHhI_7d6uI?modestbranding=1&amp;amp;rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Create conveyor belt on spline that moves objects that are put on it, scale width, choose between closed or open loop, rotate in all axes.&lt;/p&gt;
+
+&lt;h3 id=&quot;time-pedestal&quot;&gt;Time pedestal&lt;/h3&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/MCQtb3jTWso?modestbranding=1&amp;amp;rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Makes the surrounding area “go back in time”. It changes the material on meshes to make them look newer and hides and shows some meshes in the surrounding area.&lt;/p&gt;
+
+&lt;p&gt;Code example for turning the time pedestal on and off:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://leo.toivio.se/assets/game/skylar-and-plux/Timepedestal.png&quot; alt=&quot;Time pedestal example&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://leo.toivio.se/assets/game/skylar-and-plux/12036456_1626974957580008_2959208112864436972_n-e1473277118638.jpg&quot; alt=&quot;DreamHack&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Showcasing the game at DreamHack&lt;/p&gt;
+
+&lt;h2 id=&quot;interviews&quot;&gt;Interviews&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://playzine.net/2015/11/12/vi-snackar-med-leo-toivio-om-adventure-on-clover-island/&quot;&gt;Playzine at GameX Comic Con – 12th November 2015&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://gr.ign.com/skylar-plux-adventure-on-clover-island/27390/interview/e-souedike-proseggise-sta-3d-platformers&quot;&gt;IGN – 2nd May 2016&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://gamingtrend.com/2016/08/25/skylar-and-plux-aims-to-resurrect-the-golden-age-of-platforming-right-nice-dev-interview/&quot;&gt;Gaming Trend – 25th August 2016&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.gamegrin.com/articles/skylar-and-plux-adventure-on-clover-island-interview/&quot;&gt;Game Grin – 14th May 2016&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.adventureoncloverisland.com/&quot;&gt;Official website&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.microsoft.com/store/p/skylar-plux-adventure-on-clover-island/bp9snd40w5t9&quot;&gt;Xbox Live&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://store.playstation.com/en-us/product/UP4151-CUSA05557_00-CLOVERISLANDPS4A&quot;&gt;Play Station Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.humblebundle.com/store/skylar-plux-adventure-on-clover-island&quot;&gt;Humble Bundle&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://tobiigaming.com/games/skylar-plux-adventure-on-clover-island/&quot;&gt;Tobii Eyetracking&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/SkylarAndPlux/&quot;&gt;Facebook&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/skylarandplux&quot;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;http://store.steampowered.com/widget/452540/&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;190&quot;&gt;&lt;/iframe&gt;</content><author><name>Leo Toivio</name></author><category term="RightNice" /><category term="Xbox" /><category term="PlayStation" /><category term="Steam" /><category term="Tobii" /><summary type="html">“Two very important aspects in making a successful 3D platformer are controls and camera angles, and these two were as perfect as they could get.” – Examiner.com 2016</summary></entry><entry><title type="html">Project Ant</title><link href="http://leo.toivio.se/game/project-ant.html" rel="alternate" type="text/html" title="Project Ant" /><published>2016-12-04T00:00:00+01:00</published><updated>2016-12-04T00:00:00+01:00</updated><id>http://leo.toivio.se/game/project-ant</id><content type="html" xml:base="http://leo.toivio.se/game/project-ant.html"></content><author><name>Leo Toivio</name></author><summary type="html"></summary></entry><entry><title type="html">Coloride</title><link href="http://leo.toivio.se/game/coloride.html" rel="alternate" type="text/html" title="Coloride" /><published>2015-06-16T00:00:00+02:00</published><updated>2015-06-16T00:00:00+02:00</updated><id>http://leo.toivio.se/game/coloride</id><content type="html" xml:base="http://leo.toivio.se/game/coloride.html">&lt;p&gt;Coloride is a game created at Dream Hackathon Summer 15.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jams.gamejolt.io/dreamhackathoncollab/games/coloride/73738&quot;&gt;DreamHackathon submission&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://gamejolt.com/games/coloride/73738&quot;&gt;Game Jolt&lt;/a&gt;&lt;/p&gt;</content><author><name>Leo Toivio</name></author><category term="DreamHackathon" /><summary type="html">Coloride is a game created at Dream Hackathon Summer 15.</summary></entry><entry><title type="html">Garden of Aesther</title><link href="http://leo.toivio.se/game/garden-of-aesther.html" rel="alternate" type="text/html" title="Garden of Aesther" /><published>2015-06-01T00:00:00+02:00</published><updated>2015-06-01T00:00:00+02:00</updated><id>http://leo.toivio.se/game/garden-of-aesther</id><content type="html" xml:base="http://leo.toivio.se/game/garden-of-aesther.html">&lt;p&gt;Garden of Aesther is a game that I made when I went to Future Games. It’s a story based game about a world that has lost all its flora. Aesther’s job is to bring it back to life and unravel the mystery together with your involuntary partner.&lt;/p&gt;
+
+&lt;p&gt;My tree primary roles were as project manager, lead designer and lead programmer. Since I was the most experienced group member in Unity it naturally became my job to coordinate the team and to have final say on what should go into the game. As a programmer my biggest achievement was to design and implement the character including movement, implementation of animations, the camera and planting – the core mechanic. Together with the team we created a number of systems including quests, dialogues and an inventory.  We worked with Scrum and delivered weekly builds along with other tasks such as a marketing plan for our game.&lt;/p&gt;
+
+&lt;p&gt;During the development the independent game studio Might and Delight acted as our publisher. It was an instructive and challenging task since we had to change and adapt the game according to their feedback, much like in a real studio environment.&lt;/p&gt;
+
+&lt;h2 id=&quot;video&quot;&gt;Video&lt;/h2&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/9fW8P_PxxqA?modestbranding=1&amp;amp;rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;screenshots&quot;&gt;Screenshots&lt;/h2&gt;
+&lt;div class=&quot;image-group&quot; style=&quot;overflow-y: scroll; max-height: 500px; width: 100%; background-color: lightgray;&quot;&gt;
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		
+			
+		
+	
+
+	
+		
+			
+		
+	
+
+	
+		
+			
+		
+	
+
+	
+		
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/garden-of-aesther/screenshots/Screenshot_2015-08-04-22-21-16.png&quot; alt=&quot;/assets/game/garden-of-aesther/screenshots/Screenshot_2015-08-04-22-21-16.png&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/garden-of-aesther/screenshots/Screenshot_2015-08-04-22-21-31.png&quot; alt=&quot;/assets/game/garden-of-aesther/screenshots/Screenshot_2015-08-04-22-21-31.png&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/garden-of-aesther/screenshots/Screenshot_2015-08-04-22-22-22.png&quot; alt=&quot;/assets/game/garden-of-aesther/screenshots/Screenshot_2015-08-04-22-22-22.png&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/garden-of-aesther/screenshots/Screenshot_2015-08-04-22-25-56.png&quot; alt=&quot;/assets/game/garden-of-aesther/screenshots/Screenshot_2015-08-04-22-25-56.png&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/garden-of-aesther/screenshots/Screenshot_2015-08-04-22-26-23.png&quot; alt=&quot;/assets/game/garden-of-aesther/screenshots/Screenshot_2015-08-04-22-26-23.png&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/garden-of-aesther/screenshots/Screenshot_2015-08-04-22-33-46.png&quot; alt=&quot;/assets/game/garden-of-aesther/screenshots/Screenshot_2015-08-04-22-33-46.png&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/garden-of-aesther/screenshots/Screenshot_2015-08-04-22-46-30.png&quot; alt=&quot;/assets/game/garden-of-aesther/screenshots/Screenshot_2015-08-04-22-46-30.png&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/garden-of-aesther/screenshots/Screenshot_2015-08-04-22-54-31.png&quot; alt=&quot;/assets/game/garden-of-aesther/screenshots/Screenshot_2015-08-04-22-54-31.png&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+		
+			
+&lt;img src=&quot;/assets/game/garden-of-aesther/screenshots/Screenshot_2015-08-04-22-55-38.png&quot; alt=&quot;/assets/game/garden-of-aesther/screenshots/Screenshot_2015-08-04-22-55-38.png&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+			
+		
+	
+
+	
+		
+			
+		
+	
+
+	
+		
+			
+		
+	
+
+	
+		
+			
+		
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+&lt;/div&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&quot;scripting-character-movement&quot;&gt;Scripting character movement&lt;/h2&gt;
+&lt;p&gt;I put much work into making a great feeling third person controller for mobile devices, something that I hadn’t seen in any other game before. Constantly letting other people try it and make adjustments according to their feedback helped to make sure that I wasn’t just making enjoyable controls for me but also for others. We did a lot of testing and finally decided that using a joystick to move and a touch pad area to rotate the camera was the best solution for our game.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-csharp&quot; data-lang=&quot;csharp&quot;&gt;&lt;span class=&quot;k&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;JoystickToWorldspace&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Vector2&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;joystick&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+
+	&lt;span class=&quot;c1&quot;&gt;//Get camera rotation&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;Vector3&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cameraDirection&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;playerCamera&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;forward&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;cameraDirection&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0.0f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//Ignore Y direction&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;cameraDirection&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;Normalize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+
+	&lt;span class=&quot;c1&quot;&gt;//Convert joystick input in Worldspace coordinates&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;moveDirection&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cameraDirection&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;joystick&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;playerCamera&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;right&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;joystick&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+	&lt;span class=&quot;c1&quot;&gt;//Applies the speed parameter that has been set in the inspector&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;moveDirection&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;*=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;speed&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+	&lt;span class=&quot;c1&quot;&gt;//Applies the movement&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;moveDirection&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;-=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gravity&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Time&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;deltaTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;charController&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;Move&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;moveDirection&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Time&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;deltaTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+	&lt;span class=&quot;c1&quot;&gt;//Degugging&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;Vector3&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;axisSign&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Vector3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;Cross&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;moveDirection&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;forward&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;Debug&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;DrawRay&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;Vector3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;position&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;position&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;2f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;position&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;z&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;moveDirection&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;green&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;Debug&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;DrawRay&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;Vector3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;position&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;position&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;2f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;position&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;z&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;forward&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;magenta&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;Debug&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;DrawRay&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;Vector3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;position&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;position&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;2f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;position&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;z&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;joystick&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;blue&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;Debug&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;DrawRay&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;Vector3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;position&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;position&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;2.5f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;position&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;z&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;axisSign&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;red&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;painting-the-ground&quot;&gt;Painting the ground&lt;/h2&gt;
+&lt;p&gt;I was also in charge of implementing  the shader and functionality for bringing back the flora to the island.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://leo.toivio.se/assets/game/garden-of-aesther/GoA_Painting.png&quot; alt=&quot;painting&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;From the beginning of the project there was an idea to be able to make the area around the flora green when planting. There was many different ways to achieve this and I laid out a lot of options such as adding a chunk of grass meshes, putting green decals on the ground and overlaying the ground with meshes. In the end we decided to use the vertex colour of the mesh to lerp between two textures, a brown muddy texture and a green grass texture because it was both the best looking and most efficient method for our target platform, mobile.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-csharp&quot; data-lang=&quot;csharp&quot;&gt;&lt;span class=&quot;k&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;VertexPaint&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+	&lt;span class=&quot;c1&quot;&gt;//Find all of the overlapping colliders&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;overlappingColliders&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Physics&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;OverlapSphere&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;position&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;circleDiameter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;currentPlanetLayer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;overlappingColliders&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;!=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+		&lt;span class=&quot;c1&quot;&gt;//Go through all of the colliders&lt;/span&gt;
+		&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;overlappingColliders&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;++)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+
+			&lt;span class=&quot;c1&quot;&gt;//Get transform&lt;/span&gt;
+			&lt;span class=&quot;n&quot;&gt;Transform&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;meshTransform&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;overlappingColliders&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;GetComponent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Transform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;();&lt;/span&gt;
+			&lt;span class=&quot;c1&quot;&gt;//Get mesh&lt;/span&gt;
+			&lt;span class=&quot;n&quot;&gt;Mesh&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;mesh&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;overlappingColliders&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;GetComponent&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;MeshFilter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;().&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sharedMesh&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+			&lt;span class=&quot;c1&quot;&gt;//Get array of vertices location&lt;/span&gt;
+			&lt;span class=&quot;n&quot;&gt;Vector3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;meshVertices&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;mesh&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;vertices&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+			&lt;span class=&quot;c1&quot;&gt;//Get array vertex of colors&lt;/span&gt;
+			&lt;span class=&quot;n&quot;&gt;Color32&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;colors&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;mesh&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;colors32&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+			&lt;span class=&quot;c1&quot;&gt;//Go through all of the vertices&lt;/span&gt;
+			&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;j&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;j&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;meshVertices&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Length&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;++)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+				&lt;span class=&quot;c1&quot;&gt;//Go through if vertex has not been painted&lt;/span&gt;
+				&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;colors&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;g&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0f&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+					&lt;span class=&quot;c1&quot;&gt;//Get world position&lt;/span&gt;
+					&lt;span class=&quot;n&quot;&gt;Vector3&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;vertexWorldPoint&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;meshTransform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;TransformPoint&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;meshVertices&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]);&lt;/span&gt;
+					&lt;span class=&quot;c1&quot;&gt;//Get distance&lt;/span&gt;
+					&lt;span class=&quot;kt&quot;&gt;float&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;distance&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Vector3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;Distance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;position&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;vertexWorldPoint&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+					&lt;span class=&quot;c1&quot;&gt;//Paint if close enough&lt;/span&gt;
+					&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;distance&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;circleDiameter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+						&lt;span class=&quot;c1&quot;&gt;//Set new vertex color&lt;/span&gt;
+						&lt;span class=&quot;n&quot;&gt;colors&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;paintColor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+					&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+				&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+			&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+			&lt;span class=&quot;c1&quot;&gt;//Apply color to vertices&lt;/span&gt;
+			&lt;span class=&quot;n&quot;&gt;mesh&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;colors32&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;colors&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+		&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+	&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;To make the transition between painted and unpainted ground look more natural and interesting I created a shader using Shader Forge. It’s using the vertex color of the mesh and a noise texture to know what texture it should display and how to blend in between them.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://leo.toivio.se/assets/game/garden-of-aesther/GroundPaintShader.png&quot; alt=&quot;painting_shader&quot; /&gt;
+&lt;img src=&quot;http://leo.toivio.se/assets/game/garden-of-aesther/shader1.png&quot; alt=&quot;painting_0&quot; /&gt;
+&lt;img src=&quot;http://leo.toivio.se/assets/game/garden-of-aesther/shader3.png&quot; alt=&quot;painting_1&quot; /&gt;
+&lt;img src=&quot;http://leo.toivio.se/assets/game/garden-of-aesther/shader2.png&quot; alt=&quot;painting_2&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;first-person-mode&quot;&gt;First person mode&lt;/h2&gt;
+&lt;p&gt;In the the inventory the player can find binoculars that enables the player to see the world from a first person view. Moving the phone rotates the camera using the phone’s gyroscope to look around – it’s like a window into the world of Aesther.&lt;/p&gt;</content><author><name>Leo Toivio</name></author><category term="Mobile" /><category term="FutureGames" /><category term="MightAndDelight" /><summary type="html">Garden of Aesther is a game that I made when I went to Future Games. It’s a story based game about a world that has lost all its flora. Aesther’s job is to bring it back to life and unravel the mystery together with your involuntary partner.</summary></entry><entry><title type="html">Olympus</title><link href="http://leo.toivio.se/game/olympus.html" rel="alternate" type="text/html" title="Olympus" /><published>2015-04-01T00:00:00+02:00</published><updated>2015-04-01T00:00:00+02:00</updated><id>http://leo.toivio.se/game/olympus</id><content type="html" xml:base="http://leo.toivio.se/game/olympus.html">&lt;p&gt;A capture the flag (ctf) map set in a castle in the sky with a great glass wall protecting one side from the other.&lt;/p&gt;
+
+&lt;h2 id=&quot;gameplay&quot;&gt;Gameplay&lt;/h2&gt;
+&lt;video width=&quot;100%&quot; height=&quot;320&quot; controls=&quot;controls&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+	&lt;source src=&quot;http://i.imgur.com/3z6mKht.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+&lt;h2 id=&quot;screenshots&quot;&gt;Screenshots&lt;/h2&gt;
+&lt;div class=&quot;image-group&quot; style=&quot;overflow-y: scroll; max-height: 500px; width: 100%; background-color: lightgray;&quot;&gt;
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		
+&lt;img src=&quot;/assets/game/olympus/FGLevelOlympus11.jpg&quot; alt=&quot;/assets/game/olympus/FGLevelOlympus11.jpg&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+		
+	
+
+	
+		
+&lt;img src=&quot;/assets/game/olympus/FGLevelOlympus21.jpg&quot; alt=&quot;/assets/game/olympus/FGLevelOlympus21.jpg&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+		
+	
+
+	
+		
+&lt;img src=&quot;/assets/game/olympus/FGLevelOlympus31.jpg&quot; alt=&quot;/assets/game/olympus/FGLevelOlympus31.jpg&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+		
+	
+
+	
+		
+&lt;img src=&quot;/assets/game/olympus/OlympusTopDown.png&quot; alt=&quot;/assets/game/olympus/OlympusTopDown.png&quot; style=&quot;max-width: 45%; margin: 2%;&quot; /&gt;
+		
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+&lt;/div&gt;
+
+&lt;h2 id=&quot;level-design-document&quot;&gt;Level Design document&lt;/h2&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;1500&quot; src=&quot;https://drive.google.com/a/futuregames.se/file/d/0BzUWw1SHRnd-WlgycnNaUm5NUFk/preview&quot;&gt;&lt;/iframe&gt;</content><author><name>Leo Toivio</name></author><category term="FutureGames" /><summary type="html">A capture the flag (ctf) map set in a castle in the sky with a great glass wall protecting one side from the other.</summary></entry></feed>
