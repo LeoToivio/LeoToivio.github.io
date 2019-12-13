@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://leo.toivio.se/feed.xml" rel="self" type="application/atom+xml" /><link href="http://leo.toivio.se/" rel="alternate" type="text/html" /><updated>2019-12-13T21:36:01+01:00</updated><id>http://leo.toivio.se/feed.xml</id><title type="html">Leo Toivio - Game Developer and Game Designer</title><subtitle>Leo Toivio's game development portfolio</subtitle><author><name>Leo Toivio</name></author><entry><title type="html">Acron: Attack of the Squirrels!</title><link href="http://leo.toivio.se/game/acron.html" rel="alternate" type="text/html" title="Acron: Attack of the Squirrels!" /><published>2019-08-29T00:00:00+02:00</published><updated>2019-08-29T00:00:00+02:00</updated><id>http://leo.toivio.se/game/acron</id><content type="html" xml:base="http://leo.toivio.se/game/acron.html">&lt;p&gt;&lt;img src=&quot;http://leo.toivio.se/assets/game/acron/acron-bronze-award-halo-2019.png&quot; alt=&quot;Halo awards 2019 - Bronze&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://leo.toivio.se/feed.xml" rel="self" type="application/atom+xml" /><link href="http://leo.toivio.se/" rel="alternate" type="text/html" /><updated>2019-12-13T22:22:41+01:00</updated><id>http://leo.toivio.se/feed.xml</id><title type="html">Leo Toivio - Game Developer and Game Designer</title><subtitle>Leo Toivio's game development portfolio</subtitle><author><name>Leo Toivio</name></author><entry><title type="html">Acron: Attack of the Squirrels!</title><link href="http://leo.toivio.se/game/acron.html" rel="alternate" type="text/html" title="Acron: Attack of the Squirrels!" /><published>2019-08-29T00:00:00+02:00</published><updated>2019-08-29T00:00:00+02:00</updated><id>http://leo.toivio.se/game/acron</id><content type="html" xml:base="http://leo.toivio.se/game/acron.html">&lt;p&gt;&lt;img src=&quot;http://leo.toivio.se/assets/game/acron/acron-bronze-award-halo-2019.png&quot; alt=&quot;Halo awards 2019 - Bronze&quot; /&gt;&lt;/p&gt;
 
 &lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LP29BxhvHfc?modestbranding=1&amp;amp;rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
@@ -499,15 +499,7 @@
 
 &lt;/div&gt;
 
-&lt;h2 id=&quot;about&quot;&gt;About&lt;/h2&gt;
-
-&lt;p&gt;WARNING: This is a highly addictive VR game and must be played with at least two other people who join the game on mobile devices. The required mobile game for iOS and Android is free, download at www.acron.game and check mobile stores for device requirements.&lt;/p&gt;
-
-&lt;p&gt;The golden acorns are under attack! It’s up to you and your friends to protect them or steal them - depending if you take on the role of an extraordinarily protective tree or as one of several crafty yet thieving squirrels - in the new cross-platform party game, Acron: Attack of the Squirrels!, from Resolution Games.&lt;/p&gt;
-
-&lt;p&gt;A game that’s at its best when played as a couch party game with a group of friends, Acron: Attack of the Squirrels! is both competitive and cooperative in nature and brings together players across VR and mobile devices.&lt;/p&gt;
-
-&lt;p&gt;One player in VR - supported at launch by Oculus Rift and HTC Vive - takes on the role of the tree that is the sole protector of the golden acorns and must use the hand controllers to grab and hurl wood chunks, boulders and sticky sap to keep the squirrels at bay. Meanwhile, two to eight frenemies grab their iOS and Android devices to become rebel squirrels that’ll do anything to steal the golden acorns and bring them safely back to their base using an arsenal of unique abilities and tools. Each level immerses players in rich natural worlds - from nighttime glades to a sunlit stream - and packs them with choices for what role the player wants to take.&lt;/p&gt;
+&lt;p&gt;I worked as a developer on Acron. It consisted of making the game fun, mechanics tight, some UX work and a lot of network programming. Using the magic of Unity and Perforce we were able to make a game that is a VR and traditional smartphone game simultaneously.&lt;/p&gt;
 
 &lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
