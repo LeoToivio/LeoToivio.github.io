@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://leo.toivio.se/feed.xml" rel="self" type="application/atom+xml" /><link href="http://leo.toivio.se/" rel="alternate" type="text/html" /><updated>2019-12-13T22:22:41+01:00</updated><id>http://leo.toivio.se/feed.xml</id><title type="html">Leo Toivio - Game Developer and Game Designer</title><subtitle>Leo Toivio's game development portfolio</subtitle><author><name>Leo Toivio</name></author><entry><title type="html">Acron: Attack of the Squirrels!</title><link href="http://leo.toivio.se/game/acron.html" rel="alternate" type="text/html" title="Acron: Attack of the Squirrels!" /><published>2019-08-29T00:00:00+02:00</published><updated>2019-08-29T00:00:00+02:00</updated><id>http://leo.toivio.se/game/acron</id><content type="html" xml:base="http://leo.toivio.se/game/acron.html">&lt;p&gt;&lt;img src=&quot;http://leo.toivio.se/assets/game/acron/acron-bronze-award-halo-2019.png&quot; alt=&quot;Halo awards 2019 - Bronze&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://leo.toivio.se/feed.xml" rel="self" type="application/atom+xml" /><link href="http://leo.toivio.se/" rel="alternate" type="text/html" /><updated>2019-12-15T16:04:37+01:00</updated><id>http://leo.toivio.se/feed.xml</id><title type="html">🎮 Leo Toivio - Game Developer and Game Designer</title><subtitle>Leo Toivio's game development portfolio</subtitle><author><name>Leo Toivio</name></author><entry><title type="html">Acron: Attack of the Squirrels!</title><link href="http://leo.toivio.se/game/acron.html" rel="alternate" type="text/html" title="Acron: Attack of the Squirrels!" /><published>2019-08-29T00:00:00+02:00</published><updated>2019-08-29T00:00:00+02:00</updated><id>http://leo.toivio.se/game/acron</id><content type="html" xml:base="http://leo.toivio.se/game/acron.html">&lt;p&gt;&lt;img src=&quot;http://leo.toivio.se/assets/game/acron/acron-bronze-award-halo-2019.png&quot; alt=&quot;Halo awards 2019 - Bronze&quot; /&gt;&lt;/p&gt;
 
 &lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LP29BxhvHfc?modestbranding=1&amp;amp;rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
@@ -500,6 +500,14 @@
 &lt;/div&gt;
 
 &lt;p&gt;I worked as a developer on Acron. It consisted of making the game fun, mechanics tight, some UX work and a lot of network programming. Using the magic of Unity and Perforce we were able to make a game that is a VR and traditional smartphone game simultaneously.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-people-are-saying&quot;&gt;What people are saying&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“You definitely shouldn’t sleep on this awesome party game.” - &lt;a href=&quot;https://www.roadtovr.com/10-best-games-2019-steam-vr-vive-rift-quest-index/&quot;&gt;Road to VR - The 10 Best SteamVR Games of 2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;“Acron is like capture the flag on acid.” - &lt;a href=&quot;https://uploadvr.com/best-oculus-quest-games/&quot;&gt;UploadVR - The 25 Best Oculus Quest Games And Experiences&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=oAeuAQgDNFA&quot;&gt;Nathie - Best Oculus Quest Multiplayer Games You Can Play Right Now&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
