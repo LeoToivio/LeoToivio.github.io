@@ -66,9 +66,84 @@
 }
 
 main {
-  background-image: url("http://leo.toivio.se/assets/images/leo-in-vr.png");
+  background-image: url("http://localhost:4000/assets/images/leo-in-vr.png");
   background-repeat: no-repeat;
   background-position: calc(50% - 480px) 100%;
+}
+
+.shipped-games {
+  margin: 10px 0 20px 0;
+  display: grid;
+  gap: 14px;
+}
+
+.shipped-game {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+}
+
+.shipped-game__cover {
+  width: 110px;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  flex: none;
+  border-radius: 6px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.shipped-game__body {
+  min-width: 0;
+  flex: 1 1 auto;
+}
+
+.shipped-game__header {
+  font-weight: 600;
+}
+
+.shipped-game__engine {
+  font-weight: 400;
+  opacity: 0.75;
+}
+
+.shipped-game__awards {
+  margin-top: 6px;
+  padding-left: 14px;
+  border-left: 3px solid rgba(0, 0, 0, 0.12);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 16px;
+  align-items: center;
+}
+
+.award a {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+}
+
+.award img {
+  display: block;
+  width: auto;
+  flex: none;
+}
+
+.award__text {
+  line-height: 1.2;
+}
+
+@media (max-width: 600px) {
+  .shipped-game__cover {
+    width: 92px;
+  }
+  .shipped-game__awards {
+    padding-left: 10px;
+    gap: 10px;
+  }
+  .award a {
+    gap: 8px;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
