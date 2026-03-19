@@ -118,6 +118,7 @@ main {
 
 .award a {
   display: inline-flex;
+  flex-flow: row wrap;
   align-items: center;
   gap: 10px;
   text-decoration: none;
@@ -126,6 +127,7 @@ main {
 .award img {
   display: block;
   width: auto;
+  max-width: none;
   flex: none;
 }
 

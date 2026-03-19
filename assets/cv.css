@@ -1,0 +1,42 @@
+.cv {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.cv h1 {
+  margin-bottom: 0.25rem;
+}
+
+.cv .cv-header {
+  margin-bottom: 1rem;
+}
+
+.cv .cv-header__meta,
+.cv .cv-header__links {
+  margin: 0.25rem 0 0 0;
+  font-size: 0.95rem;
+}
+
+.cv .cv-muted {
+  opacity: 0.85;
+}
+
+@media print {
+  .cv {
+    max-width: none;
+  }
+
+  .wrapper {
+    max-width: 100% !important;
+  }
+}
+
+
+main {
+  background-image: none !important;
+}
+
+.site-header,
+.site-footer {
+  display: none !important;
+}
