@@ -1,151 +1,51 @@
-.sticky {
-  margin: 30px 0;
-  position: relative;
-  overflow: hidden;
-  -webkit-box-shadow: 0 0 10px rgba(50, 50, 50, 0.5);
-  -moz-box-shadow: 0 0 10px rgba(50, 50, 50, 0.5);
-  box-shadow: 0 0 10px rgba(50, 50, 50, 0.5);
-}
+.sticky { margin: 30px 0; position: relative; overflow: hidden; -webkit-box-shadow: 0 0 10px rgba(50, 50, 50, 0.5); -moz-box-shadow: 0 0 10px rgba(50, 50, 50, 0.5); box-shadow: 0 0 10px rgba(50, 50, 50, 0.5); }
 
-.sticky h2 { /*Name of project*/
-  font-size: 30px;
-  display: inline;
-}
+.sticky h2 { /*Name of project*/ font-size: 30px; display: inline; }
 
-.sticky h2 span {
-  float: right;
-  color: black;
-}
+.sticky h2 span { float: right; color: black; }
 
-.sticky .background {
-  height: 350px;
-}
+.sticky .background { height: 350px; }
 
-.sticky .title_box {
-  padding: 5px;
-  background-color: rgba(255, 255, 255, 0.7);
-}
+.sticky .title_box { padding: 5px; background-color: rgba(255, 255, 255, 0.7); }
 
-.stretch {
-  width: 100%;
-  display: inline-block;
-  font-size: 0;
-  line-height: 0;
-}
+.stretch { width: 100%; display: inline-block; font-size: 0; line-height: 0; }
 
-.sticky .icons {
-  width: 100%;
-  display: inline-block;
-  text-align: center;
-}
+.sticky .icons { width: 100%; display: inline-block; text-align: center; }
 
-.sticky .icons .icon {
-  height: 50px;
-  margin: 10px !important;
-}
+.sticky .icons .icon { height: 50px; margin: 10px !important; }
 
-.sticky .myButton {
-  -webkit-box-shadow: 0 0 10px rgba(50, 50, 50, 0.5);
-  -moz-box-shadow: 0 0 10px rgba(50, 50, 50, 0.5);
-  box-shadow: 0 0 10px rgba(50, 50, 50, 0.5);
-  float: right;
-  background-color: #ffffff;
-  border: 1px solid #dcdcdc;
-  cursor: pointer;
-  margin: 10px;
-  padding: 6px 24px;
-}
+.sticky .myButton { -webkit-box-shadow: 0 0 10px rgba(50, 50, 50, 0.5); -moz-box-shadow: 0 0 10px rgba(50, 50, 50, 0.5); box-shadow: 0 0 10px rgba(50, 50, 50, 0.5); float: right; background-color: #ffffff; border: 1px solid #dcdcdc; cursor: pointer; margin: 10px; padding: 6px 24px; }
 
-.sticky .myButton:hover {
-  background-color: #f6f6f6;
-}
+.sticky .myButton:hover { background-color: #f6f6f6; }
 
-.sticky .myButton:active {
-  position: relative;
-  top: 1px;
-}
+.sticky .myButton:active { position: relative; top: 1px; }
 
-main {
-  background-image: url("https://leo.toivio.se/assets/images/leo-in-vr.png");
-  background-repeat: no-repeat;
-  background-position: calc(50% - 480px) 100%;
-}
+main { background-image: url("/assets/images/leo-in-vr.png"); background-repeat: no-repeat; background-position: calc(50% - 480px) 100%; }
 
-.shipped-games {
-  margin: 10px 0 20px 0;
-  display: grid;
-  gap: 14px;
-}
+.shipped-games { margin: 10px 0 20px 0; display: grid; gap: 14px; }
 
-.shipped-game {
-  display: flex;
-  gap: 12px;
-  align-items: flex-start;
-}
+.shipped-game { display: flex; gap: 12px; align-items: flex-start; }
 
-.shipped-game__cover {
-  width: 110px;
-  aspect-ratio: 16/9;
-  object-fit: cover;
-  flex: none;
-  border-radius: 6px;
-  border: 1px solid rgba(0, 0, 0, 0.12);
-}
+.shipped-game__cover { width: 110px; object-fit: cover; flex: none; border-radius: 6px; border: 1px solid rgba(0, 0, 0, 0.12); }
 
-.shipped-game__body {
-  min-width: 0;
-  flex: 1 1 auto;
-}
+.shipped-game__body { min-width: 0; flex: 1 1 auto; }
 
-.shipped-game__header {
-  font-weight: 600;
-}
+.shipped-game__header { font-weight: 600; }
 
-.shipped-game__engine {
-  font-weight: 400;
-  opacity: 0.75;
-}
+.shipped-game__engine { font-weight: 400; opacity: 0.75; }
 
-.shipped-game__awards {
-  margin-top: 6px;
-  padding-left: 14px;
-  border-left: 3px solid rgba(0, 0, 0, 0.12);
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px 16px;
-  align-items: center;
-}
+.shipped-game__awards { margin-top: 6px; padding-left: 14px; border-left: 3px solid rgba(0, 0, 0, 0.12); display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; }
 
-.award a {
-  display: inline-flex;
-  flex-flow: row wrap;
-  align-items: center;
-  gap: 10px;
-  text-decoration: none;
-}
+.shipped-game__press-feedback { font-size: 0.9em; font-style: italic; padding-left: 14px; border-left: 3px solid rgba(0, 0, 0, 0.12); }
 
-.award img {
-  display: block;
-  width: auto;
-  max-width: none;
-  flex: none;
-}
+.shipped-game__press-feedback blockquote { margin: 4px 0; }
 
-.award__text {
-  line-height: 1.2;
-}
+.award a { display: inline-flex; flex-flow: row wrap; align-items: center; gap: 10px; text-decoration: none; }
 
-@media (max-width: 600px) {
-  .shipped-game__cover {
-    width: 92px;
-  }
-  .shipped-game__awards {
-    padding-left: 10px;
-    gap: 10px;
-  }
-  .award a {
-    gap: 8px;
-  }
-}
+.award img { display: block; width: auto; max-width: none; flex: none; }
+
+.award__text { line-height: 1.2; }
+
+@media (max-width: 600px) { .shipped-game__cover { width: 92px; } .shipped-game__awards { padding-left: 10px; gap: 10px; } .award a { gap: 8px; } }
 
 /*# sourceMappingURL=style.css.map */
