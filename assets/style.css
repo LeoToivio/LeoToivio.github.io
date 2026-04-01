@@ -8,6 +8,10 @@
 
 .sticky .title_box { padding: 5px; background-color: rgba(255, 255, 255, 0.7); }
 
+h2 .studio-location { font-size: 0.6em; font-weight: 400; opacity: 0.58; margin-left: 0.35em; white-space: nowrap; }
+
+@media (max-width: 600px) { h2 .studio-location { display: block; margin: 0.15em 0 0; } }
+
 .stretch { width: 100%; display: inline-block; font-size: 0; line-height: 0; }
 
 .sticky .icons { width: 100%; display: inline-block; text-align: center; }
