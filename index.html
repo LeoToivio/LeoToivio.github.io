@@ -29,33 +29,34 @@
         <link rel="stylesheet" href="/assets/style.css" />
 
 
-<div class="image-strip" style="--height: 50%; --overlap: -30px;">
+<div class="image-strip">
   
   
     
-    <img src="/assets/titles/1-metro-awakening.jpg" alt="" class="strip-image clip-right" style="z-index: 0;" />
+    <img src="/assets/game/metro-awakening/cover.jpg" alt="" class="strip-image" style="z-index: 0;" />
   
     
-    <img src="/assets/titles/2-arizona-sunshine-remake.webp" alt="" class="strip-image clip-left" style="z-index: 1;" />
+    <img src="/assets/game/arizona-sunshine-remake/cover.jpg" alt="" class="strip-image" style="z-index: 1;" />
   
     
-    <img src="/assets/titles/3-arizona-sunshine-2.png" alt="" class="strip-image clip-right" style="z-index: 2;" />
+    <img src="/assets/game/arizona-sunshine-2/cover.jpg" alt="" class="strip-image" style="z-index: 2;" />
   
     
-    <img src="/assets/titles/4-demeo-hero-art.jpg" alt="" class="strip-image clip-left" style="z-index: 3;" />
+    <img src="/assets/game/demeo/cover.jpg" alt="" class="strip-image" style="z-index: 3;" />
   
     
-    <img src="/assets/titles/5-acron-heroart.jpg" alt="" class="strip-image clip-right" style="z-index: 4;" />
+    <img src="/assets/game/acron/cover.jpg" alt="" class="strip-image" style="z-index: 4;" />
   
     
-    <img src="/assets/titles/6-bubble-breeze-pop-logo.png" alt="" class="strip-image clip-left" style="z-index: 5;" />
+    <img src="/assets/game/bubble-breeze-pop/cover.jpg" alt="" class="strip-image" style="z-index: 5;" />
   
     
-    <img src="/assets/titles/7-skylar-and-plux-hero-art-title.jpg" alt="" class="strip-image clip-right" style="z-index: 6;" />
+    <img src="/assets/game/skylar-and-plux/cover.jpg" alt="" class="strip-image" style="z-index: 6;" />
   
 </div>
 
 <style>
+
 .image-strip {
   display: flex;
   flex-wrap: nowrap;
@@ -65,25 +66,12 @@
 }
 
 .strip-image {
-  height: var(--image-height);
   flex: 1 1 0;
   object-fit: cover;
   min-width: 0;
-  margin-left: var(--overlap);
   display: block;
   position: relative;
-}
-
-.strip-image:first-child {
-  margin-left: 0;
-}
-
-.clip-right {
-  clip-path: polygon(15% 0%, 100% 0%, 85% 100%, 0% 100%);
-}
-
-.clip-left {
-  clip-path: polygon(25% 0, 100% 0, 100% 100%, 0% 100%);
+  clip-path: polygon(10% 0, 100% 0, 90% 100%, 0% 100%);
 }
 </style>
 
